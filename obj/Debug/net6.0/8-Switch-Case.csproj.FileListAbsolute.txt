@@ -1,0 +1,15 @@
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\8-Switch-Case\bin\Debug\net6.0\8-Switch-Case.exe
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\8-Switch-Case\bin\Debug\net6.0\8-Switch-Case.deps.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\8-Switch-Case\bin\Debug\net6.0\8-Switch-Case.runtimeconfig.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\8-Switch-Case\bin\Debug\net6.0\8-Switch-Case.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\8-Switch-Case\bin\Debug\net6.0\8-Switch-Case.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\8-Switch-Case\obj\Debug\net6.0\8-Switch-Case.csproj.AssemblyReference.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\8-Switch-Case\obj\Debug\net6.0\8-Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\8-Switch-Case\obj\Debug\net6.0\8-Switch-Case.AssemblyInfoInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\8-Switch-Case\obj\Debug\net6.0\8-Switch-Case.AssemblyInfo.cs
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\8-Switch-Case\obj\Debug\net6.0\8-Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\8-Switch-Case\obj\Debug\net6.0\8-Switch-Case.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\8-Switch-Case\obj\Debug\net6.0\refint\8-Switch-Case.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\8-Switch-Case\obj\Debug\net6.0\8-Switch-Case.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\8-Switch-Case\obj\Debug\net6.0\8-Switch-Case.genruntimeconfig.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\8-Switch-Case\obj\Debug\net6.0\ref\8-Switch-Case.dll
